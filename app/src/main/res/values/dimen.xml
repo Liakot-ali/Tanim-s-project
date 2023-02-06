@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="toolbar_text">22sp</dimen>
+    <dimen name="body_main_text">25sp</dimen>
+    <dimen name="inner_pad">5sp</dimen>
+    <dimen name="layout_pad">15sp</dimen>
 </resources>
