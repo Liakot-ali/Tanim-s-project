@@ -14,6 +14,15 @@
         android:theme="@style/Theme.TanimProject"
         tools:targetApi="31">
         <activity
+            android:name=".RecordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VehiclePositionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RTMonitoringActivity"
+            android:exported="false" />
+        <activity
             android:name=".HomeActivity"
             android:exported="false" />
         <activity

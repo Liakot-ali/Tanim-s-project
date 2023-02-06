@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/All App/TanimProject/app/src/main/res/drawable/button_ripple.xml" value="0.279" />
         <entry key="..\:/All App/TanimProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.279" />
         <entry key="..\:/All App/TanimProject/app/src/main/res/drawable/ripple_effect.xml" value="0.279" />
         <entry key="..\:/All App/TanimProject/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
         <entry key="..\:/All App/TanimProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/All App/TanimProject/app/src/main/res/layout/activity_rtmonitoring.xml" value="0.27447916666666666" />
+        <entry key="..\:/All App/TanimProject/app/src/main/res/layout/activity_vehicle_position.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
