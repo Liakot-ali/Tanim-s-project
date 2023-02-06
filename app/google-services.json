@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939439228673",
+    "project_id": "tanim-s-project",
+    "storage_bucket": "tanim-s-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939439228673:android:cf40f1f9c2895d5e7cbd00",
+        "android_client_info": {
+          "package_name": "com.example.tanimproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939439228673-7acqktqc2s9s8d1gt22419s1hou1cjal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9av6-v6Ed54xo79b1Kyii4gL1n3MahE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939439228673-7acqktqc2s9s8d1gt22419s1hou1cjal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
