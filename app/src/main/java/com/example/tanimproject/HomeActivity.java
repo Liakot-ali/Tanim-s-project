@@ -2,6 +2,7 @@ package com.example.tanimproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
@@ -34,7 +35,8 @@ public class HomeActivity extends AppCompatActivity {
         rtMonitoring.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(HomeActivity.this, "Under Construction", Toast.LENGTH_SHORT).show();
+//                Toast.makeText(HomeActivity.this, "Under Construction", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(HomeActivity.this, RTMonitoringActivity.class));
             }
         });
 
